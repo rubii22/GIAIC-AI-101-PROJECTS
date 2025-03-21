@@ -15,3 +15,20 @@ A fun and interactive word-substitution game where user inputs are used to gener
 
 🔗 **[View on Google Colab](https://colab.research.google.com/drive/10hl5Ewov7tCMtsRAldvETx_eVU9ZZLDr?usp=sharing)**  
 
+---
+
+### 🎯 Number Guessing Game (Computer)  
+🔗 **[View Project on Google Colab](https://colab.research.google.com/drive/1jjrN3IbIusYpGAeEDk1qLRHakeybtN9b?usp=sharing)**  
+
+The computer attempts to guess the number you're thinking of by refining its choices based on your hints.  
+
+---
+
+### 🕵️ Number Guessing Game (User)  
+
+🔗 **[View Project on Google Colab](https://colab.research.google.com/drive/1lVlWUdG4Ccmtn42JVH9Q5C3-XdO7pvav?usp=sharing)**  
+
+Challenge yourself to guess the randomly generated number with helpful feedback to guide you.  
+
+---
+
