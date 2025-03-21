@@ -32,3 +32,11 @@ Challenge yourself to guess the randomly generated number with helpful feedback 
 
 ---
 
+### ✊✋✌️ Rock, Paper, Scissors  
+🔗 [View Project on Google Colab](https://colab.research.google.com/drive/1Bb20kTjscydrKz3XVVZJDuZWZ9BdPiGj?usp=sharing)  
+
+A fun classic game where you compete against the computer. The game keeps track of scores, allows unlimited rounds, and lets you exit anytime.  
+
+---
+
+
