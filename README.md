@@ -46,3 +46,9 @@ A word-guessing game with a **hint system** and **timer challenge** to make it m
 
 ---
 
+### 🕒 Countdown Timer 🕒
+
+🔗 [View Project on Google Colab](https://colab.research.google.com/drive/1tYWu6lLBjCba9whAZNZR_haq-yICC3Rm?usp=sharing)
+
+A simple countdown timer that runs for the chosen duration and alerts you when time is up. Displays 00:00 before finishing.
+
