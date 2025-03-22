@@ -52,3 +52,12 @@ A word-guessing game with a **hint system** and **timer challenge** to make it m
 
 A simple countdown timer that runs for the chosen duration and alerts you when time is up. Displays 00:00 before finishing.
 
+---
+
+### Password Generator
+
+🔗 [View Project on Google Colab](https://colab.research.google.com/drive/1ZmfAEbv4g7thqiA_FKiD3yuUE-C01ms3?usp=sharing)
+
+🔐 Create a secure password by customizing length, uppercase letters, numbers, and symbols!
+
+
