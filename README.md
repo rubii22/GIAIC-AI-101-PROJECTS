@@ -60,4 +60,14 @@ A simple countdown timer that runs for the chosen duration and alerts you when t
 
 🔐 Create a secure password by customizing length, uppercase letters, numbers, and symbols!
 
+---
+
+### 🏋️‍♂️ BMI Calculator
+
+A Body Mass Index (BMI) Calculator built with Python & Streamlit. It calculates BMI based on weight, height, age, and gender and provides personalized health recommendations. 🚀
+
+🔗 Live Demo
+📑 [View on Google Colab](https://colab.research.google.com/drive/1_XOWCLnf8fyIXdQ_XX-v6otryxZ-82rF?usp=sharing)
+🚀 [Try it on Streamlit](https://www.google.com/url?q=https%3A%2F%2Fbmi-calculator-smvpkmkzicygiuqy2yy5mm.streamlit.app%2F)
+
 
