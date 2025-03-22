@@ -39,4 +39,10 @@ A fun classic game where you compete against the computer. The game keeps track 
 
 ---
 
+### 🎩 Hangman Game  🎩
+🔗 [View Project on Google Colab](https://colab.research.google.com/drive/1HLXlNoIhRmOyC3Irm7qMV84a97TCjYig?usp=sharing)  
+
+A word-guessing game with a **hint system** and **timer challenge** to make it more exciting!  
+
+---
 
