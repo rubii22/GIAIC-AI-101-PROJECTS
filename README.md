@@ -83,7 +83,7 @@ A **fully interactive Expense Tracker** built with **Python & Streamlit**. Easil
 
 ---
 
- **If you **found this project useful** or have any **suggestions for improvement**, feel free to **open an issue** or **reach out**!**  
+ If you **found this project useful** or have any **suggestions for improvement**, feel free to **open an issue** or **reach out**!
     Your feedback helps improve and refine the projects. 😊  
 ---
  *🎉 If you liked this repository, don't forget to ⭐ star it and follow for more updates! 🚀*
